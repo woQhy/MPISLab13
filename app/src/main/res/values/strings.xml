@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab 13. Nikiforov Aleks AS-63</string>
+
+    <string name="journal_empty">No Journal</string>
+    <string name="journal_title">Journal Ready!</string>
+    <string name="hint">Journal ID</string>
+    <string name="download">Download</string>
+    <string name="watch">See journal</string>
+    <string name="delete">Remove Journal</string>
+
+    <string name="alert_dialog_success">Success</string>
+    <string name="alert_dialog_error">Error</string>
+
+    <string name="alert_dialog_delete">File deleted</string>
+    <string name="alert_dialog_nofile">File not found</string>
+    <string name="alert_dialog_fileload">File load success</string>
+    <string name="alert_dialog_fillallfields">Fill journal id field</string>
+
+    <string name="popup_title">Инструкция</string>
+    <string name="popup_text">Пожалуйста, введите ID журнала и нажмите кнопку «Скачать». После завершения загрузки будет доступна возможность просмотреть или удалить выпуск</string>
+    <string name="popup_checkobx">Больше не показывать</string>
+
+    <string name="author">Никифоров Александр Иванович</string>
+    <string name="authorBtn">Author</string>
+</resources>
